@@ -30,7 +30,7 @@ A bot that creates an incoming webhook URL for every channel it joins. Using the
 #### Enable the Events API
 1. Go back to the app settings and click on Events Subscriptions.
 1. Set the Request URL to your ngrok or Glitch URL + /events
-1. On the same page, subscribe to the `member_joined_channel` [**bot** event](https://cloud.githubusercontent.com/assets/700173/26603331/4f188f90-453b-11e7-9b6d-9ca541f0cbf1.png)
+1. On the same page to subscribe to the `member_joined_channel` [**bot** event](https://cloud.githubusercontent.com/assets/700173/26603331/4f188f90-453b-11e7-9b6d-9ca541f0cbf1.png)
 
 
 #### In Slack
